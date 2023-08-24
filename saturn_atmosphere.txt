@@ -1,5 +1,7 @@
 Based on edl_traj_161024_DAC1_LaRC_MC_v2 Nominal Atmosphere								
-Altitude referenced to 1 bar at equator: 60268 km								
+Altitude referenced to 1 bar at equator: 60268 km
+Source: LARC
+Provided by: Damon Landau
 								
 "Altitude, km"		"Temp, deg K"		"Pressure, bars"		"Pressure, hPa"		"Density, kg/m3"
 1500.06		406.650		7.9430E-10		7.94E-07		5.330750E-11
