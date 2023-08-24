@@ -1,0 +1,14 @@
+Titan atmospheric altitude-density profile for flyby Titan-57.
+Taken from Sarani
+
+Altitude is measured in km - must be from 1-bar if not from surface of titan because titan's radius is 2500+ km (verify this)
+Density measured in kg/m^3
+
+ALT	DENS
+950	20.46e-10
+970	1.6e-9
+990	1.1e-9
+1000	8.8e-10
+1027	5.5e-10
+1120	1e-10
+1140	5.0e-11
