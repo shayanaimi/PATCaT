@@ -59,8 +59,14 @@ PATCaT has atmospheric density profiles for Saturn, Titan, and Uranus built-in. 
 * Saturn: provided by Damon Landau, originally sourced from Langley Research Center based on edl_traj_161024_DAC1_LaRC_MC_v2 Nominal Atmosphere
   
 ### References
-Andrade
-Burk
-Sarani
++ Sarani, S., “Titan Atmospheric Density Reconstruction Using Cassini Guidance, Navigation, and Control Data,” Paper AIAA-
+2009-5763, Proceedings of the AIAA Guidance, Navigation, and Control Conference and Exhibit, Chicago, Illinois, USA, August 10-13, 2009. 
++ Burk, T.A., “Cassini at Saturn Proximal Orbits – Attitude Control Challenges,” Paper AIAA-2013-4710, Proceedings of the
+AIAA Guidance, Navigation, and Control Conference and Exhibit, Boston, Massachusetts, USA, August 19-22, 2013.
++ Andrade, L. G., "Skimming through Saturn’s Atmosphere: The Climax of the Cassini Grand Finale Mission," Paper AIAA-Sci-Tech Forum, 2018 AIAA Guidance, Navigation, and Control Conference
+
 ### Acknowledgements
-Mark, Damon, Reza, Dylan 
+* Mark Hofstadter
+* Reza Karimi
+* Damon Landau
+* Dylan Wilbur
