@@ -1,5 +1,5 @@
 # Preliminary Atmospheric Torque Calculation Tool (PATCaT)
-Tool developed during my summer 2023 JPL internship to determine atmospheric torque applied on a spacecraft at various altitudes.
+Tool developed by Shaya Naimi during my summer 2023 JPL internship with Mark Hofstadter to determine atmospheric torque applied on a spacecraft at various altitudes.
 
 
 ## Project Description
