@@ -41,9 +41,9 @@ def get_angular_velocity(planet: str, norotation: bool) -> float:
 def uranus_atmos():
     #returns lists containing altitudes and densities at different points in uranus's atmosphere
     #atmospheric density profile provided by Julie Moses, see more in README
-    file = "uranus_atmos.out"
+    file = "uranus_atmosphere.out"
     f = open(file,"r")
-    lines = f.readlines()[1:] 
+    lines = f.readlines()[3:] 
     altitudes_str = []
     densities_str = []
     bmasses_str = []
@@ -71,9 +71,9 @@ def uranus_atmos():
 def titan_atmos():
      #returns lists containing altitudes and densities at different points in titan's atmosphere
      #atmospheric density profile has been eyeballed by Shaya from Sarani et al. only contains a few points
-    file = "TitanAtmosphere_T57Eyeballed.txt"
+    file = "titan_atmosphere.txt"
     f = open(file,"r")
-    lines = f.readlines()[7:] 
+    lines = f.readlines()[8:] 
     altitudes_str = []
     densities_str = []
     for line in lines:
@@ -98,9 +98,9 @@ def titan_atmos():
 def saturn_atmos():
     #returns lists containing altitudes and densities at different points in saturn's atmosphere
     #atmospheric density profile sourced from LARC, see more in README file
-    file = "saturn_larc.txt"
+    file = "saturn_atmosphere.txt"
     f = open(file,"r")
-    lines = f.readlines()[5:] 
+    lines = f.readlines()[6:] 
     altitudes_str = []
     densities_str = []
     for line in lines:
