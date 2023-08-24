@@ -1,3 +1,4 @@
+import math 
 
 altitude_step_size = 1
 torque_plot_scale = 'log'
